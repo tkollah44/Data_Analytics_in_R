@@ -1,22 +1,29 @@
 # Data Analytics in R - Course Website
 
-We prepared this free course for people impacted by federal funding cuts who want to strengthen their data analysis skills and explore new career paths.
+We created this free course for individuals impacted by federal funding cuts who want to strengthen their data analysis skills and explore new career opportunities.
 
-The course covers the fundamentals of data analytics in **R** and shows how common tasks, such as filtering records and summarizing data, translate between R and **Structured Query Language (SQL)**. These skills can help you prepare for roles such as data analyst, quantitative researcher, quantitative user researcher, and data scientist.
+The course covers the fundamentals of data analytics in **R** and demonstrates how common tasks, such as filtering records, cleaning data, summarizing results, and exploring trends, translate between **R** and **Structured Query Language (SQL)**. These skills can help prepare learners for roles such as:
 
-## Your skills can travel with you
+- Data Analyst
+- Quantitative Researcher
+- Quantitative User Researcher
+- Data Scientist
 
-We encourage you to keep an open mind about where your experience can take you. The skills you already bring are valuable and can be applied across jobs and fields. If you’ve ever spotted an inconsistency in a report, asked what might explain a trend, or helped a colleague make sense of a finding, you’ve already practiced data analysis.
+## Your Skills Can Travel With You
 
-> As you work through the course, think about a question you know well from your own work. How could you use R to explore it? Who in another field might need to answer a similar question?
+We encourage you to keep an open mind about where your experience can take you. The skills you already possess are valuable and transferable across industries and disciplines.
 
-## About the contributors
+If you've ever identified an inconsistency in a report, investigated a trend, asked questions about unexpected findings, or helped others interpret information, you've already practiced core data analysis skills.
 
-- **Tiffany M. Kollah, BSPH**, has a background in public health, health statistics, and mental health statistics.
-- **Megha Joshi** works at Progressive and has previously worked for government health agencies.
+> As you work through this course, think about a question you know well from your own experience. How could you use R to explore it? Who in another field might need to answer a similar question?
 
-Our backgrounds span public health, government, and the private sector. We bring those different perspectives to this course and welcome the experience you bring to it.
+## About the Contributors
 
-## Website acknowledgment
+- **Tiffany M. Kollah, BSPH** has a background in public health, health statistics, clinical research, and mental health research.
+- **Megha Joshi** works at Progressive and previously worked for government health agencies.
 
-This website is based on the [Teach Data Science course website template](https://maria.quarto.pub/teach-data-science-course-website/).
+Together, our backgrounds span public health, government, research, and the private sector. We bring those different perspectives to this course and welcome the unique experiences and insights that learners bring with them.
+
+## Website Acknowledgment
+
+This website is based on the https://maria.quarto.pub/teach-data-science-course-website/. We are grateful to the original creators for providing an open educational resource that supports data science instruction and learning.
